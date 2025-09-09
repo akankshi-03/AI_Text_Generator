@@ -1,7 +1,7 @@
 # ✨ Text Generator using GPT-2
 
-This project is a simple **Text Generation App** built with **Hugging Face Transformers** and **Gradio**.  
-It allows you to input a text prompt and generate AI-based continuations using the **GPT-2 model**.
+This project is a simple **Text Generation App** built with **Hugging Face Transformers** and **Gradio**
+It allows you to input a text prompt and generate AI-based continuations using the **GPT-2 model**
 
 ---
 
