@@ -32,4 +32,8 @@ Add option to select different models (e.g., GPT-Neo, GPT-3.5).
 Enable control over parameters like temperature and top-k sampling.
 Deploy on Hugging Face Spaces for public access.
 
+## Project link 
+
+  https://akankshiii-ai-text-generator.hf.space/?__theme=system&deep_link=G70oVWZcaYA
+
 👩‍💻 Developed by akankshi-03
